@@ -1,0 +1,4 @@
+Exploring LLM Prompting Strategies for Joint Essay Scoring and Feedback Generation
+Maja Stahl, Leon Biermann, Andreas Nehring, and Henning Wachsmuth
+Proceedings of the 19th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2024), pp. 283–298.
+Official full-text PDF: https://aclanthology.org/2024.bea-1.23.pdf

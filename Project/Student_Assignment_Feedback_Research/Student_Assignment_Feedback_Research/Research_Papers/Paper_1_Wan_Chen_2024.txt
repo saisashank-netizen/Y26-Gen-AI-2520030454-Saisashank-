@@ -1,0 +1,4 @@
+Exploring generative AI assisted feedback writing for students’ written responses to a physics conceptual question with prompt engineering and few-shot learning
+Tong Wan and Zhongzhou Chen
+Physical Review Physics Education Research, 20, 010152 (2024). DOI: 10.1103/PhysRevPhysEducRes.20.010152
+Official full-text PDF: https://journals.aps.org/prper/pdf/10.1103/PhysRevPhysEducRes.20.010152
